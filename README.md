@@ -3,8 +3,6 @@
 A simple yet effective **Object-Oriented Programming (OOP)** project in **C++** that simulates a cinema ticket booking system.  
 The system allows users to **view available movies**, **book tickets**, and **manage seat bookings** via a menu-driven console interface.
 
-> ⚠️ This project does **not** use exception handling — all logic is implemented using basic control structures and conditions.
-
 ---
 
 ## 📌 Features
